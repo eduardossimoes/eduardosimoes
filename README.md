@@ -6,7 +6,9 @@
 - 🌱 Atualmente estou aprendendo Java
 - 😄 Pronomes: ele/dele
 
-## Ferramentas e Tecnologias
+- ![eduardossimoes GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardossimoes&show_icons=true&theme=radical)
+
+## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br>
   <img align="center" alt="edu-Java" height="50" width="60" 
@@ -26,10 +28,4 @@
 <a href="https://www.linkedin.com/in/eduardo-simões-2881bb289/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
   
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eduardossimoes/eduardossimoes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eduardossimoes/eduardossimoes/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/eduardossimoes/eduardossimoes/output/github-contribution-grid-snake.svg">
-</picture>
 
