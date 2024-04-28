@@ -6,6 +6,8 @@
 - 🌱 Atualmente estou aprendendo Java
 - 😄 Pronomes: ele/dele
 
+## Ferramentas e Tecnologias
+
 <div style="display: inline_block"><br>
   <img align="center" alt="edu-Java" height="50" width="60" 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
@@ -16,7 +18,7 @@
   
 </div>
   
-  ## Ferramentas e Tecnologias
+  ## 
  
 <div> 
  	<a href="https://www.twitch.tv/z1knns" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
