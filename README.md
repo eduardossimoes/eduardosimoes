@@ -2,8 +2,8 @@
 
 ## Olá, me Eduardo Simões 👋!
 
-- 🔭 Atualmente estou a procura do primeiro emprego com desenvolvimento Back-end
-- 🌱 Atualmente estou aprendendo Java
+- 🔭 Atualmente estou a procura do primeiro emprego com desenvolvimento Back-end.
+- 🌱 Atualmente estou aprendendo: Java
 - 😄 Pronomes: ele/dele
 
 - ![eduardossimoes GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardossimoes&show_icons=true&theme=radical)
